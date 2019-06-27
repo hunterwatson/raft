@@ -1,0 +1,25 @@
+{
+    "name": "raft",
+    "publisher": "hunterlvt",
+    "displayName": "raft",
+    "description": "A bold colour theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "raft", "dark", "hunter", "dark-theme", "bold"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "raft",
+                "uiTheme": "vs-dark",
+                "path": "./themes/raft-color-theme.json"
+            }
+        ]
+    }
+}
