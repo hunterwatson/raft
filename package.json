@@ -1,9 +1,9 @@
 {
     "name": "raft",
     "publisher": "hunterlvt",
-    "displayName": "raft",
+    "displayName": "Raft",
     "description": "A bold colour theme.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.35.0"
     },
@@ -16,7 +16,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "raft",
+                "label": "Raft",
                 "uiTheme": "vs-dark",
                 "path": "./themes/raft-color-theme.json"
             }
@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/hunterwatson/raft.git"
+        "url": "https://github.com/hunterwatson/raft-vscode-theme.git"
     },
-    "homepage": "https://github.com/hunterwatson/raft"
+    "homepage": "https://github.com/hunterwatson/raft-vscode-theme"
 }
