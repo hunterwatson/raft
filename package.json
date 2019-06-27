@@ -21,5 +21,10 @@
                 "path": "./themes/raft-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hunterwatson/raft.git"
+    },
+    "homepage": "https://github.com/hunterwatson/raft"
 }
